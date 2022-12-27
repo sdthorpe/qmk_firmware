@@ -1,0 +1,11 @@
+{
+    "keyboard_name": "nchartrand",
+    "manufacturer": "nchartrand",
+    "url": "",
+    "maintainer": "me",
+    "usb": {
+        "vid": "0x1234",
+        "pid": "0x1234",
+        "device_version": "2.0.0"
+    }
+}
